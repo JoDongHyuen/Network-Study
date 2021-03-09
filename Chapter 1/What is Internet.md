@@ -2,9 +2,9 @@
 =======================
 ## 인터넷을 설명하기 위한 2가지 방법</br>
 ```
-1. 인터넷 구성요소를 기술("nuts and bolts" view)</br>
+1. 인터넷 구성요소를 기술("nuts and bolts" view)
 
-2. 어플리케이션에 서비스를 제공하는 인프라로 보는 관점</br>
+2. 어플리케이션에 서비스를 제공하는 인프라로 보는 관점
 (Infrastructure that provide services to applications)
 ```
 
